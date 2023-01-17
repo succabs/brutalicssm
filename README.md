@@ -1,2 +1,2 @@
-# BrutaliCSSm
+# BRUTALIcssM
 Brutalist CSS Framework
